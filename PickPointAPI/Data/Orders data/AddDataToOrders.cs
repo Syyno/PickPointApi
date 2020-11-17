@@ -37,7 +37,7 @@ namespace PickPointAPI.Util
                     Cost = 555.55m,
                     CustomerFullName = "Delilah Fitzgerald",
                     CustomerTelephoneNumber = "+7999-333-33-33",
-                    PostamatNumber = 3
+                    PostamatNumber = 2
                 }
             });
            
